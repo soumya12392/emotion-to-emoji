@@ -27,3 +27,11 @@ span {
   border-radius: 10px;
   letter-spacing: 10px;
 }
+
+label {
+  font-size: 14px;
+  color: #62b33a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: #ffffff;
+}
